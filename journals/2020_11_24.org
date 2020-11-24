@@ -1,3 +1,5 @@
 #+TITLE: Nov 24th, 2020
 
 ** [Holistic vouchers]
+*** Lots of divergency in our App, Ride hailing different from NEXT in payment options line and trip summary screen
+*** Caro did some previous work on this
