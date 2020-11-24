@@ -2,4 +2,6 @@
 
 ** [Holistic vouchers]
 *** Lots of divergency in our App, Ride hailing different from NEXT in payment options line and trip summary screen
+*** Packages also need a solution that should be in line with the rest of the app
+*** Lets try to find a solution and an approach
 *** Caro did some previous work on this
