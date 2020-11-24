@@ -4,4 +4,10 @@
 *** Lots of divergency in our App, Ride hailing different from NEXT in payment options line and trip summary screen
 *** Packages also need a solution that should be in line with the rest of the app
 *** Lets try to find a solution and an approach
-*** Caro did some previous work on this
+*** Caro did some previous work on this, also synced with Magnus on the NEXT unification
+**** Hier die Unified Docu mit dem Pricing Screen :
+zpl://screen?sid=5fa573827e8e9454669a3399&pid=57fe42f453b5ea8669487314 
+NEXT Discount Explorations:
+https://share.goabstract.com/4f3fda0f-9fc2-4fbe-a85f-cdcdb9712687?sha=6fb8a83413e0eed625a7fe3fa30bd97fcb0f248c
+Applied voucher logic:
+https://share.goabstract.com/f39504ad-38d9-4d8f-94d6-62ed88835f51?sha=6fb8a83413e0eed625a7fe3fa30bd97fcb0f248c
