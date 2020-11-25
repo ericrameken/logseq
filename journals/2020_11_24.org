@@ -2,7 +2,9 @@
 
 ** [Holistic vouchers]
 *** Lots of divergency in our App, Ride hailing different from NEXT in payment options line and trip summary screen
-*** Packages also need a solution that should be in line with the rest of the app
+*** [Packages]also need a solution that should be in line with the rest of the app
+**** Percent package
+**** Free unlock Package
 *** Lets try to find a solution and an approach that is consintent within the whole app
 *** Caro did some previous work on this, also synced with Magnus on the NEXT unification
 **** Hier die Unified Docu mit dem Pricing Screen :
